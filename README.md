@@ -1,0 +1,1 @@
+[![Tests](https://github.com/cile1993/laravel-starter/actions/workflows/tests.yml/badge.svg?branch=master&event=branch_protection_rule)](https://github.com/cile1993/laravel-starter/actions/workflows/tests.yml)
